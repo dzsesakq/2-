@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+My fix in the 1.txt.
+=======
+My new row in the 1.txt.file
+>>>>>>> branch_3
