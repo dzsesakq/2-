@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+My fix in the 1.txt.
+=======
+<<<<<<< HEAD
+fix in the 1.txt
+======= 
+My fix in the 1.txt
+>>>>>>> branch_2
+>>>>>>> branch_3
